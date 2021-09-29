@@ -1,0 +1,8 @@
+path: ../dataset
+train: images/train
+val: images/val
+test: images/test
+
+# classes
+nc: 4
+names: ['door', 'handle', 'cabinet_door', 'refrigerator_door']
